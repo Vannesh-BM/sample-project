@@ -1,0 +1,1 @@
+allure serve "C:\Users\vanne\Desktop\HTC GS\sample project\allure-reports"
